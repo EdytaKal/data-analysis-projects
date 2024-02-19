@@ -1,9 +1,7 @@
 -- ============================================================================
 -- SQL queries for Tableau (PROJECT 2)
--- link to youtube:
--- project 2/4: https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2
 -- link to Tableau Covid Dashboard:
-
+-- https://public.tableau.com/app/profile/edi.kal/viz/CovidDashboard_17081272022820/Dashboard1
 -- ============================================================================
 
 -- TABLE 1 ==================================================================== 
