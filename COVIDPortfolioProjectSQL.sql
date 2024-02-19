@@ -1,10 +1,5 @@
---ctrl + k + c
---crtl + k + u
-
 -- ============================================================================
 -- SQL queries for data analysist (PROJECT 1)
--- link to youtube:
--- project 1/4: https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2&t=2108s
 -- ============================================================================
 Select *
 From PortfolioProject..CovidDeaths$
